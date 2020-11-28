@@ -4,6 +4,9 @@ Aplicación desarrollada en Flutter que interactua con la API Key de Google Maps
 
 ## Instrucciones
 
+Tutorial video en youtube:<br>
+https://youtu.be/IkFTNFEZodg<br>
+
 Dependencia utilizada en el archivo pubspec.yaml:<br>
 https://pub.dev/packages/google_maps_flutter<br>
 
