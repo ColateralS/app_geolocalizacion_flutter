@@ -1,16 +1,17 @@
 # app_geolocalizacion_flutter
 
-A new Flutter project.
+Aplicación desarrollada en Flutter que interactua con la API Key de Google Maps.
 
-## Getting Started
+## Instrucciones
 
-This project is a starting point for a Flutter application.
+Dependencia utilizada en el archivo pubspec.yaml:<br>
+https://pub.dev/packages/google_maps_flutter<br>
 
-A few resources to get you started if this is your first Flutter project:
+Obtener la API de Google Maps:<br>
+https://developers.google.com/maps/documentation/android-sdk/get-api-key<br>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Seguir los pasos y modificar el archivo AndroidManifest.xml para que tome la API Key del servicio. <br>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Desarrollado por Steeven Ortega<br>
+Universidad de las Américas
+
